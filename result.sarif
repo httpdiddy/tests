@@ -1282,7 +1282,7 @@
       {
        "physicalLocation": {
         "artifactLocation": {
-         "uri": "/sourcecraft/workspace/secrets.js"
+         "uri": "/sourcecraft/workspace/x/secrets.js"
         },
         "region": {
          "startLine": 11,
@@ -1290,143 +1290,7 @@
          "endLine": 11,
          "endColumn": 60,
          "snippet": {
-          "text": "qUe5tJ7rR'\">--><br>8tY9uI0oP1aZ2sX3cD4fV5bG6hN7mJ8k"
-         }
-        }
-       }
-      }
-     ],
-     "partialFingerprints": {
-      "commitSha": "",
-      "email": "",
-      "author": "",
-      "date": "",
-      "commitMessage": ""
-     },
-     "properties": {
-      "tags": []
-     }
-    },
-    {
-     "message": {
-      "text": "slack-webhook-url has detected secret for file /sourcecraft/workspace/.env."
-     },
-     "ruleId": "slack-webhook-url",
-     "locations": [
-      {
-       "physicalLocation": {
-        "artifactLocation": {
-         "uri": "/sourcecraft/workspace/.env"
-        },
-        "region": {
-         "startLine": 18,
-         "startColumn": 16,
-         "endLine": 18,
-         "endColumn": 92,
-         "snippet": {
-          "text": "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
-         }
-        }
-       }
-      }
-     ],
-     "partialFingerprints": {
-      "commitSha": "",
-      "email": "",
-      "author": "",
-      "date": "",
-      "commitMessage": ""
-     },
-     "properties": {
-      "tags": []
-     }
-    },
-    {
-     "message": {
-      "text": "generic-api-key has detected secret for file /sourcecraft/workspace/.env."
-     },
-     "ruleId": "generic-api-key",
-     "locations": [
-      {
-       "physicalLocation": {
-        "artifactLocation": {
-         "uri": "/sourcecraft/workspace/.env"
-        },
-        "region": {
-         "startLine": 12,
-         "startColumn": 2,
-         "endLine": 12,
-         "endColumn": 51,
-         "snippet": {
-          "text": "ghp_1234567890abcdefghijklmnopqrstuv"
-         }
-        }
-       }
-      }
-     ],
-     "partialFingerprints": {
-      "commitSha": "",
-      "email": "",
-      "author": "",
-      "date": "",
-      "commitMessage": ""
-     },
-     "properties": {
-      "tags": []
-     }
-    },
-    {
-     "message": {
-      "text": "generic-api-key has detected secret for file /sourcecraft/workspace/.env."
-     },
-     "ruleId": "generic-api-key",
-     "locations": [
-      {
-       "physicalLocation": {
-        "artifactLocation": {
-         "uri": "/sourcecraft/workspace/.env"
-        },
-        "region": {
-         "startLine": 24,
-         "startColumn": 2,
-         "endLine": 24,
-         "endColumn": 25,
-         "snippet": {
-          "text": "1234567890abcdef"
-         }
-        }
-       }
-      }
-     ],
-     "partialFingerprints": {
-      "commitSha": "",
-      "email": "",
-      "author": "",
-      "date": "",
-      "commitMessage": ""
-     },
-     "properties": {
-      "tags": []
-     }
-    },
-    {
-     "message": {
-      "text": "stripe-access-token has detected secret for file /sourcecraft/workspace/.env."
-     },
-     "ruleId": "stripe-access-token",
-     "locations": [
-      {
-       "physicalLocation": {
-        "artifactLocation": {
-         "uri": "/sourcecraft/workspace/.env"
-        },
-        "region": {
-         "startLine": 15,
-         "startColumn": 20,
-         "endLine": 15,
-         "endColumn": 52,
-         "snippet": {
-          "text": "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
+          "text": "qUe5tJ7rR8tY9uI0oP1aZ2sX3cD4fV5bG6hN7mJ8k"
          }
         }
        }
