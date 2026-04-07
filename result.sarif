@@ -1275,7 +1275,7 @@
    "results": [
     {
      "message": {
-      "text": "generic-api-key has detected secret for file '\">--><br> /sourcecraft/workspace/secrets.js."
+      "text": "generic-api-key https://yandex.ru?x='\">-->11<br>22 '\">--><br> /sourcecraft/workspace/secrets.js."
      },
      "ruleId": "generic-api-key",
      "locations": [
@@ -1298,13 +1298,13 @@
      ],
      "partialFingerprints": {
       "commitSha": "",
-      "email": "",
-      "author": "",
+      "email": "'\">-->11<br>22@yandex.ru:443",
+      "author": "'\">-->11<br>22",
       "date": "",
-      "commitMessage": ""
+      "commitMessage": "'\">-->11<br>22"
      },
      "properties": {
-      "tags": []
+      "tags": ["'\">-->11<br>22"]
      }
     }
    ]
