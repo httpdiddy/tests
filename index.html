@@ -2,12 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="title" content="<img src=x onerror=alert()>">
-    <meta name="description" content="<img src=x onerror=alert()>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>aaa<img src="x">aaaa</title>
+    <meta property="og:title" content="test og:title">
+    <title>test</title>
 </head>
 <body>
-    <h1>TTT<img src=x>TT</h1>
+    <script>
+        const metaTag = document.createElement('meta');
+        metaTag.setAttribute('name', 'og:description');
+        metaTag.setAttribute('content', 'test og:description');
+        document.head.appendChild(metaTag);
+    </script>
 </body>
 </html>
